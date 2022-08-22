@@ -6,7 +6,7 @@ Part of Speech Tagger for Bodo Language using BiLSTM-CRF with Transformer-based 
 This repository contains pre-trained vanilla BERT model and POS tagging model for Bodo Language.
 ## How to run
 
-Download the pre-trained BERT model from the link [BodoBERT](https://iitgoffice-my.sharepoint.com/:f:/g/personal/drbj153_iitg_ac_in/Et9_2NXTa81Plm8qgIUqqs4BQSiUgfvFMALoJlXwMY23Aw?e=z35g8I)
+Download the pre-trained BERT model from the link [BodoBERT](https://iitgoffice-my.sharepoint.com/:f:/g/personal/drbj153_iitg_ac_in/Et9_2NXTa81Plm8qgIUqqs4BQSiUgfvFMALoJlXwMY23Aw?e=z35g8I) (This is not required for running the POS tagging model)
 
 Download the pre-trained Bodo POS tagging model from the link- [BodoPOS](https://iitgoffice-my.sharepoint.com/:u:/g/personal/drbj153_iitg_ac_in/ET9XJhlMgrBKkqzVtAUXKiIBt2a9ur28f5Z7a1UaxWfdNQ?e=8OGT4F)
 
