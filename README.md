@@ -35,4 +35,18 @@ print(sentence.to_tagged_string())
 
 ```
 
+## Citation
 
+```
+@article{pathak2025part,
+  title={Part-of-speech tagger for Bodo language using deep learning approach},
+  author={Pathak, Dhrubajyoti and Narzary, Sanjib and Nandi, Sukumar and Som, Bidisha},
+  journal={Natural Language Processing},
+  volume={31},
+  number={2},
+  pages={215--229},
+  year={2025},
+  publisher={Cambridge University Press}
+}
+
+``` 
